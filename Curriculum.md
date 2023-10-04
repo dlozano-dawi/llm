@@ -6,6 +6,8 @@ Formas de Contacto:
 + Mail: davidlozanocabeza@gmail.com
 + Teléfono: 651 86 65 51 
 
+![Face Picture](FotoPerfil.PNG)
+
 Dirección:  
 Niceto Alcalá Zamora, 44 2A
 
