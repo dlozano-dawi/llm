@@ -21,7 +21,7 @@ _Centro CIFP Francesc De Borja Moll_
 **2023 - 2025 Formación Profesional Grado Superior Desarollo de Aplicaciones WEB**  
 _Centro CIFP Francesc De Borja Moll_
 
-**2022 - 2023 Diversos Cursos Online de programación WEB (JavaScript, Java, Python, HTML, CSS)
+**2022 - 2023 Diversos Cursos Online de programación WEB (JavaScript, Java, Python, HTML, CSS)  
 _Udemy / Youtube_
 ## Experiencia Laboral
 **2023 RIU Hotels Comapany**  
